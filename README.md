@@ -19,3 +19,5 @@ If you want to run MiTCP, simply run:
 ```
 python train_MiTCP.py
 ```
+## Preproccessed L1000 data
+The preproccessed L1000 data can be downloaded at https://zenodo.org/records/13991478?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImIwOTNjODFmLTg3YTktNGU4ZC05MGVjLWZjOTE3NzNhYjA2ZSIsImRhdGEiOnt9LCJyYW5kb20iOiIyMDBiODY4OTNmOGE3Y2I0YzFhNGEyNDMzZDYxOTM1ZSJ9.UEeNjYhmIhWnjf5mxhxzjKyYWg2hZr8sIlRFLo86w6C_kSLZALgKnTj7oKqkfW8iHH1tN4E5SyvL2kbGE-zMdw
