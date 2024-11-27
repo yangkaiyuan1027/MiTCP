@@ -9,9 +9,9 @@ from model import MoleculeModel
 from make_predictions import make_predictions
 
 arguments = [
-    '--checkpoint_dir', 'coexpression/GCN_0.4/',
-   '--test_path', 'IPF_drugs.csv',
-  '--preds_path', 'IPF_preds.csv',
+    '--checkpoint_path', 'model.pt',
+   '--test_path', 'mol_SMILES.csv',
+  '--preds_path', 'CTP_preds.csv',
 ]
 
 args = PredictArgs().parse_args(arguments)
